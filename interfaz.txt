@@ -1,0 +1,5 @@
+La interfaz de la plataforma comunitaria contará con una sección principal para la vista de causas disponibles, donde los ciudadanos podrán visualizar en forma de tarjetas o lista todos los proyectos comunitarios activos con su respectivo título, descripción y fecha de creación.
+
+Cada causa mostrada incluirá de forma visible un contador de apoyos numérico y, justo al lado, un botón para apoyar la causa, permitiendo la participación rápida con un solo clic de manera anónima y segura.
+
+Finalmente, la plataforma dispondrá de un formulario para crear una causa que contendrá campos de texto simples para ingresar el título, la descripción detallada y la fecha del proyecto. Toda la interfaz mantendrá un diseño limpio, intuitivo y enfocado en la usabilidad, sin exponer en ningún momento información privada ni datos sensibles de los usuarios.
